@@ -18,5 +18,5 @@ A comprehensive Capital Asset Pricing Model (CAPM) and Portfolio Optimization we
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/CAPM-Web-Application.git
+git clone https://github.com/iamganguly-2002/CAPM-Web-Application.git
 cd CAPM-Web-Application
