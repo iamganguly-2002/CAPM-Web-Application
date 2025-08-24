@@ -10,9 +10,19 @@ A comprehensive Capital Asset Pricing Model (CAPM) and Portfolio Optimization we
 - **🔗 Correlation Matrix**: Stock correlation heatmaps
 - **🎯 Interactive Charts**: Plotly-powered visualizations
 
-## Live Demo
+## Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iamganguly-2002-capm-web-application.streamlit.app/)
+### Main Dashboard
+![Main Dashboard](dashboard.png)
+
+### CAPM Analysis
+![CAPM Analysis](capm-analysis.png)
+
+### Portfolio Optimization
+![Portfolio Optimization](portfolio-optimization.png)
+
+### Efficient Frontier
+![Efficient Frontier](efficient-frontier.png)
 
 ## Installation
 
@@ -20,3 +30,4 @@ A comprehensive Capital Asset Pricing Model (CAPM) and Portfolio Optimization we
 ```bash
 git clone https://github.com/iamganguly-2002/CAPM-Web-Application.git
 cd CAPM-Web-Application
+
